@@ -20,7 +20,7 @@ const Details = () => {
           <p className="font-bold text-xl">
             {expectedPost.body}{' '}
             <span className='text-sm font-normal'>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum,
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, adfjak,
               quibusdam nemo, tempore blanditiis unde qui, tempora eaque aperiam
               repellendus ea molestiae iusto quidem voluptatibus repellat quod
               ratione fuga. Debitis, natus
